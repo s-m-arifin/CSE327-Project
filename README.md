@@ -1,6 +1,4 @@
-# [Project Name]
-
-**Group Name:** ThreadPool
+# SeekDest
 
 ## Project Members
 
